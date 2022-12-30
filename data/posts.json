@@ -1,0 +1,32 @@
+[
+    {
+        
+        "title": "Valorant",
+        "tutorial1": "Agent Mastering",
+        "tutorial2": "Team Bonding",
+        "tutorial3": "Map analysis",
+        "description": "Riot Games presents VALORANT: a 5v5 character-based tactical FPS where precise gunplay meets unique agent abilities.",
+        "image": "https://www.kemperlesnik.com/wp-content/uploads/2020/04/valorant-official-art.jpg"
+        
+    },
+    {
+        
+        "title": "PUBG",
+        "description": "PUBG MOBILE is the FREE battle royale shooter that chosen by over 1 billion players worldwide. Extreme battles matches, play it now!",
+        "tutorial1": "Aim on the opponent",
+        "tutorial2": "Team Bonding",
+        "tutorial3": "Map analysis ",
+        "image": "https://gumlet.assettype.com/freepressjournal/2022-01/0dcab878-e2d7-4b61-bfbd-e98866f8de2e/image001.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        
+    },
+    {
+        
+        "title": "Dota 2",
+        "description": "Dota 2 is a multiplayer online battle arena video game and the stand-alone sequel to the Defense of the Ancients (DotA) mod.",
+        "tutorial1": "Agent Mastering",
+        "tutorial2": "Team Bonding",
+        "tutorial3": "Map analysis",
+        "image": "https://www.avenga.com/wp-content/uploads/2021/09/dota-2-header.jpeg"
+        
+    }
+]
